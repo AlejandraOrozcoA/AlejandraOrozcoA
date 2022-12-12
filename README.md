@@ -16,9 +16,11 @@
   <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> &nbsp;&nbsp;&nbsp;
   <img width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;&nbsp;&nbsp;
   </br>
-  <h2>Stats</h2>
-  <div align="center">
+  <details>
+  <summary><h2>Stats</h2></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=alejandraorozcoa&show_icons=true&locale=en" alt="alejandraorozcoa" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandraorozcoa&show_icons=true&locale=en&layout=compact" alt="alejandraorozcoa" />
+  </details>
+  <div align="center">
   </div>
 </div>
